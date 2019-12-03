@@ -31,7 +31,7 @@ You will create a repository called **my-angular-course**. It will be tracked by
 
 Additionally, and optionally, you will be able to connect your local repository to a remote GitHub repository. 
 
-Git is an especially helpful tool while working with Angular. One reason for this is we will be using the Angular CLI tool to create and modify many files at once. 
+Git is an especially helpful tool while working with Angular. One reason for this is we will be using the Angular CLI tool to create and modify many files at once.
     
 Sometimes, you may accidentally run a command and modify a lot of files you did not mean to. It can be time consuming to clean this up! To make the process easier, and be able to UNDO - we will use a local Git repo to track our files.
    
